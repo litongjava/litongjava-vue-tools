@@ -139,4 +139,11 @@ local.properties
 .externalNativeBuild
 /captures
 /build
-*.tgz
+
+App.vue
+main.js
+jsconfig.json
+package.json
+src
+webpack.config.js
+litongjava-vue-tools-0.1.0.tgz
