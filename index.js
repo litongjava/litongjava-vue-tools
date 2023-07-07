@@ -1,4 +1,4 @@
-import BrowserVersion from './dist/browser-version'
+import BrowserVersion from './lib/browser-version'
 
 export default {
   install(Vue) {
